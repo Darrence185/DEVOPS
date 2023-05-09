@@ -1,9 +1,7 @@
 ## API Advanced
 > This repo covers how to use the Reddit API and how to recurse.
-
 ### Resources:
 * [Reddit API](https://www.reddit.com/dev/api/)
-
 ### Environment
 * Language: Python 3.4.3
 * OS: Ubuntu 14.04 LTS
