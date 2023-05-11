@@ -1,4 +1,5 @@
 ## Webstack Debugging #3
+
 > Learning to debug Apache and WordPress with ```strace``` and ```error.log``` files.
 
 ```
@@ -26,6 +27,7 @@ $ curl -s 127.0.0.1:80 | grep Holberton
 ```
 
 ### Resources:
+
 * [Look at apache2 error log](https://stackoverflow.com/questions/4731364/internal-error-500-apache-but-nothing-in-the-logs)
 
 ### Description of what each file shows:
